@@ -1,0 +1,10 @@
+body {
+    font-size: 15pt;
+}
+h1{
+    color: red;
+    background-color: rgb(90, 60, 70);
+}
+p{ 
+    color: greenyellow;
+    background-color: rgba(70, 60, 80, 30);  }
